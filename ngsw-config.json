@@ -33,7 +33,7 @@
 "dataGroups": [
 {
 "name": "images-api",
-"urls": ["https://picsum.photos/**"],
+"urls": ["https://rickandmortyapi.com/api/character/avatar/**"],
 "cacheConfig": {
     "maxSize": 10,
     "maxAge": "1h",
